@@ -1,4 +1,4 @@
-# 🔥🎯Ultimate GitHub Guide 
+# 🔥🎯Ultimate GitHub Guide🗺️📌
 ## "How to use Git/Github"
 
 This repository contains a comprehensive guide on how to use GitHub as a data scientist. It includes notes, mindmaps, and practical tips I created.
@@ -15,28 +15,34 @@ It covers various aspects of GitHub usage, from basic version control to more ad
 ![image](https://github.com/Duygu-Jones/GitHub_Guide_byDuyguJ/assets/141514497/e4d40921-03f8-4b1a-98df-719879300fca)
 
 
-### About Me
+<br>
 
-I'm Duygu Jones, a Data Scientist, passionate about data visualization, analysis and machine learning. <br>
+## 🌱 About Me 
 
-You can find more about me and my work through the following links:
+I'm Duygu Jones, a Data Scientist, passionate about data visualization, analysis, and machine learning. 
 
-- **Website**: [duygujones.vercel.app](https://duygujones.vercel.app/)
-- **LinkedIn**: [linkedin.com/in/duygujones](https://www.linkedin.com/in/duygujones/)
+
+📢I announce and share all my projects first on [**my LinkedIn profile**](https://www.linkedin.com/in/duygujones/). If you would like to stay updated on my latest projects♻️💫 
+
+🌐Feel free to connect with me!
+
+
+🚀🎯You can find more about me and my work through the following links:
+
+- **My Portfolio Website**: [duygujones.portfolio](https://duygujones.vercel.app/)
 - **Kaggle**: [kaggle.com/duygujones](https://www.kaggle.com/duygujones)
 - **GitHub**: [github.com/Duygu-Jones](https://github.com/Duygu-Jones)
 - **Medium**: [medium.com/@duygujones](https://medium.com/@duygujones)
 - **Tableau Public**: [Duygu Jones on Tableau Public](https://public.tableau.com/app/profile/duygu.jones/vizzes)
 
-Feel free to connect with me!<br>
+<br>
 
+🎯 Boost your exploratory data analysis skills,<br>
+💡 Share your insights with the community,<br>
+👩‍💻 Become a data wizard!<br>
+✨✨ If you find this repository helpful, don't forget to give it a ⭐ star.<br>
 
-🎯Boost your exploratory data analysis skills,<br> 
-💡Share your insights with the community, <br>
-👩‍💻Become a data wizard! <br>
-✨If you find this repository helpful, don't forget to give it a star✨.<br>
-
-Code with joy!👩‍💻✨
+Code with joy! 👩‍💻✨
 
 ---
 
